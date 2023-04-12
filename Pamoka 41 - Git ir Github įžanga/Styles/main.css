@@ -3,3 +3,7 @@
 html {
     font-family: 'Roboto', sans-serif;
 }
+main{
+    display: flex;
+    justify-content: space-evenly;
+}
